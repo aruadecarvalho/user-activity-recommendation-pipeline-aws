@@ -1,4 +1,4 @@
-# End-to-End Batch and Streaming Pipeline on AWS
+# User Activity Recommendation End-to-End Batch and Streaming Pipeline on AWS
 
 This repository contains the implementation of an end-to-end batch and streaming data pipeline using AWS services, developed as part of my Data Engineering course. The project showcases a real-world pipeline that handles both batch and streaming data to meet stakeholder requirements, following the architectural principles learned during the course.
 
